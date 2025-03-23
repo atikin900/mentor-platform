@@ -1,0 +1,2076 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Наставничество</title>
+    <link rel="icon" href="favicon.ico">
+    <link rel="preload" as="image" imagesrcset="_next/image&amp;w=256&amp;q=99 1x, _next/image&amp;w=640&amp;q=99 2x">
+    <link rel="preload" as="image" imagesrcset="_next/image&amp;w=256&amp;q=99 1x, _next/image&amp;w=384&amp;q=99 2x">
+    <link rel="preload" as="image" imagesrcset="_next/image&amp;w=384&amp;q=99 1x, _next/image&amp;w=750&amp;q=99 2x">
+    <meta name="next-head-count" content="7">
+    <link rel="preload" href="_next/static/css/dd026153df5132ad.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/dd026153df5132ad.css" data-n-g="">
+    <link rel="preload" href="_next/static/css/0c682e56b1dad478.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/0c682e56b1dad478.css" data-n-p="">
+    <link rel="preload" href="_next/static/css/0f1976535c7ca046.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/0f1976535c7ca046.css">
+    <link rel="preload" href="_next/static/css/8732fc2c6b1e3133.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/8732fc2c6b1e3133.css">
+    <link rel="preload" href="_next/static/css/7eee00c3812215ff.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/7eee00c3812215ff.css">
+    <link rel="preload" href="_next/static/css/12fe87ebd9e42d8f.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/12fe87ebd9e42d8f.css">
+    <link rel="preload" href="_next/static/css/dbc3b9a211fe4789.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/dbc3b9a211fe4789.css">
+    <link rel="preload" href="_next/static/css/ff6364915beef61a.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/ff6364915beef61a.css">
+    <link rel="preload" href="_next/static/css/7ef7afabc6d97e08.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/7ef7afabc6d97e08.css">
+    <link rel="preload" href="_next/static/css/2c2e122278072fb1.css" as="style">
+    <link rel="stylesheet" href="_next/static/css/2c2e122278072fb1.css">
+    <noscript data-n-css=""></noscript>
+    <!-- Скрипты -->
+    <script defer="" nomodule="" src="_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
+    <script defer="" src="_next/static/chunks/1586.0eb207aab60df690.js"></script>
+    <script defer="" src="_next/static/chunks/4793.0f2e75a76d9d8a6f.js"></script>
+    <script defer="" src="_next/static/chunks/4378-4b3f12a054756cae.js"></script>
+    <script defer="" src="_next/static/chunks/5479.de85ca9f8d945747.js"></script>
+    <script defer="" src="_next/static/chunks/2436.a60e6d288efdd6a4.js"></script>
+    <script defer="" src="_next/static/chunks/653-0087461b1d808301.js"></script>
+    <script defer="" src="_next/static/chunks/1600.919b985fcf268814.js"></script>
+    <script defer="" src="_next/static/chunks/9350-9e71b392d3a41f1d.js"></script>
+    <script defer="" src="_next/static/chunks/6339.a4994331aebc2a90.js"></script>
+    <script defer="" src="_next/static/chunks/5313.eb966182de02ae4d.js"></script>
+    <script defer="" src="_next/static/chunks/7536-697f0840400a8455.js"></script>
+    <script defer="" src="_next/static/chunks/9620-01261d235b4b90bd.js"></script>
+    <script defer="" src="_next/static/chunks/8944.0102a6e189bcfffc.js"></script>
+    <script defer="" src="_next/static/chunks/6066.537bb948da87d148.js"></script>
+    <script defer="" src="_next/static/chunks/6473.0008bbe319d5575c.js"></script>
+    <script defer="" src="_next/static/chunks/206.099ef670960fcdaf.js"></script>
+    <script defer="" src="_next/static/chunks/2085.a52b0c0de687a508.js"></script>
+    <script src="_next/static/chunks/webpack-a75670bec4f810d2.js" defer=""></script>
+    <script src="_next/static/chunks/framework-4ed89e9640adfb9e.js" defer=""></script>
+    <script src="_next/static/chunks/main-1baf0b80ee07ac5f.js" defer=""></script>
+    <script src="_next/static/chunks/pages/_app-ab6ee4bce3ba46f5.js" defer=""></script>
+    <script src="_next/static/chunks/8383-405abf8a7292d73a.js" defer=""></script>
+    <script src="_next/static/chunks/2003-3e5d517c34e2f760.js" defer=""></script>
+    <script src="_next/static/chunks/5675-32e1d85c62415e8f.js" defer=""></script>
+    <script src="_next/static/chunks/2044-7ad757ae27c72497.js" defer=""></script>
+    <script src="_next/static/chunks/1184-852347b4191ecbde.js" defer=""></script>
+    <script src="_next/static/chunks/2977-318dfa5e20c0cc9a.js" defer=""></script>
+    <script src="_next/static/chunks/3436-5f4e62d3d69b940d.js" defer=""></script>
+    <script src="_next/static/chunks/pages/index-532ceae9bff58018.js" defer=""></script>
+    <script src="_next/static/_WZtFSAzLToHMy6iwWQ1_/_buildManifest.js" defer=""></script>
+    <script src="_next/static/_WZtFSAzLToHMy6iwWQ1_/_ssgManifest.js" defer=""></script>
+    <!-- Подключаем стили -->
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Стили для модальных окон */
+        .Modal_overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .Modal_content {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 500px;
+            width: 90%;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+
+        .Modal_header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .Modal_title {
+            margin: 0;
+            font-size: 24px;
+            color: #333;
+        }
+
+        .Modal_close {
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #666;
+        }
+
+        .Modal_body {
+            margin-bottom: 20px;
+        }
+
+        .Modal_form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .Modal_form_group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .Modal_form_group label {
+            font-weight: 500;
+            color: #333;
+        }
+
+        .Modal_form_group input,
+        .Modal_form_group textarea {
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        .Modal_actions {
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+        }
+
+        .Modal_button {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        .Modal_button_primary {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .Modal_button_primary:hover {
+            background-color: #0056b3;
+        }
+
+        /* Стили для списка курсов */
+        .courses-list {
+            display: grid;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .course-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+        }
+
+        .course-card h3 {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+
+        /* Стили для профиля пользователя */
+        .user-profile {
+            position: relative;
+            cursor: pointer;
+        }
+
+        .user-profile__name {
+            font-weight: 500;
+            color: #333;
+        }
+
+        .user-profile__menu {
+            position: absolute;
+            top: 100%;
+            right: 0;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 10px 0;
+            display: none;
+            min-width: 200px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .user-profile:hover .user-profile__menu {
+            display: block;
+        }
+
+        .user-profile__menu-item {
+            display: block;
+            width: 100%;
+            padding: 8px 16px;
+            border: none;
+            background: none;
+            text-align: left;
+            cursor: pointer;
+            color: #333;
+        }
+
+        .user-profile__menu-item:hover {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <!-- Подключаем скрипт авторизации -->
+    <script src="auth.js"></script>
+    <div id="__next">
+        <div></div>
+        <div></div>
+        <div>
+            <!-- Happydesk widget -->
+            <style>
+                .temporary-widget-class__button {
+                    display: none !important;
+                }
+            </style>
+            <script src="widget.js" charset="utf-8"></script>
+            <script>
+                Happydesk.initChat(
+                    {
+                        clientId: 6313,
+                        server: 'https://75hd2-widget.happydesk.ru',
+                        host: 'dobro.happydesk.ru' 
+                    },
+                    {
+                        page_url: window.location.href,
+                        user_agent: window.navigator.userAgent,
+                        language: 'ru'
+                    }
+                );
+            </script>
+        </div>
+        <div class="Toastify"></div>
+        <div class="Common_body__FlzhS">
+            <header class="Header_header__wchHA">
+                <div class="Header_container__fUUwx">
+                    <div data-radium="true">
+                        <div style="-webkit-animation:x 0.5s;animation:x 0.5s;-webkit-animation-name:fadeInDown-radium-animation-f2a06fc6;animation-name:fadeInDown-radium-animation-f2a06fc6" data-radium="true">
+                            <div class="Header_header__wrapper__OTddE" data-radium="true">
+                                <div class="d-flex align-items-center justify-content-start" data-radium="true">
+                                    <div class="Header_header__logo__tHsW0">
+                                        <a href="https://dobro.ru/?utm_source=mentor&amp;utm_medium=main_page&amp;utm_campaign=header_logo_dobroru">
+                                            <img alt="Лого" srcset="_next/static/media/mentor-logo.2b69c931.svg 1x, _next/static/media/mentor-logo.2b69c931.svg 2x" src="_next/static/media/mentor-logo.2b69c931.svg" width="178" height="26" decoding="async" data-nimg="future" class="Header_header__logo--mentor__bYBuG accessible-theme-image" loading="lazy" style="color:transparent">
+                                        </a>
+                                    </div>
+                                    <div itemscope="" itemtype="http://schema.org/SiteNavigationElement" class="Header_header__refs__OXyq3"></div>
+                                </div>
+                                <div class="Header_header-container__OrHYk">
+                                    <div class="dropdown">
+                                        <div class="DropdownCommon_dropdown-menu__2RRYY dropdown-toggle">
+                                            <div>
+                                                <div class="DropdownCommon_header-item__img__bEzKd">
+                                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M22 7V5H2V7H22ZM22 11V13H2V11H22ZM22 17V19H2V17H22Z" fill="black"></path>
+                                                    </svg>
+                                                </div>
+                                                <span>Меню</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown">
+                                        <div class="DropdownCommon_dropdown-menu__2RRYY dropdown-toggle">
+                                            <div id="dropdown-services-btn">
+                                                <div class="DropdownCommon_header-item__img__bEzKd">
+                                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4C18 5.10457 18.8954 6 20 6C21.1046 6 22 5.10457 22 4C22 2.89543 21.1046 2 20 2C18.8954 2 18 2.89543 18 4ZM20 14C18.8954 14 18 13.1046 18 12C18 10.8954 18.8954 10 20 10C21.1046 10 22 10.8954 22 12C22 13.1046 21.1046 14 20 14ZM20 22C18.8954 22 18 21.1046 18 20C18 18.8954 18.8954 18 20 18C21.1046 18 22 18.8954 22 20C22 21.1046 21.1046 22 20 22ZM12 22C10.8954 22 10 21.1046 10 20C10 18.8954 10.8954 18 12 18C13.1046 18 14 18.8954 14 20C14 21.1046 13.1046 22 12 22ZM10 12C10 13.1046 10.8954 14 12 14C13.1046 14 14 13.1046 14 12C14 10.8954 13.1046 10 12 10C10.8954 10 10 10.8954 10 12ZM12 6C10.8954 6 10 5.10457 10 4C10 2.89543 10.8954 2 12 2C13.1046 2 14 2.89543 14 4C14 5.10457 13.1046 6 12 6ZM2 20C2 21.1046 2.89543 22 4 22C5.10457 22 6 21.1046 6 20C6 18.8954 5.10457 18 4 18C2.89543 18 2 18.8954 2 20ZM4 14C2.89543 14 2 13.1046 2 12C2 10.8954 2.89543 10 4 10C5.10457 10 6 10.8954 6 12C6 13.1046 5.10457 14 4 14ZM2 4C2 5.10457 2.89543 6 4 6C5.10457 6 6 5.10457 6 4C6 2.89543 5.10457 2 4 2C2.89543 2 2 2.89543 2 4Z" fill="black"></path>
+                                                    </svg>
+                                                </div>
+                                                <span>Сервисы</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <nav class="Header_header-nav__uxzSC" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+                                    <a href="#" class="Header_header-item__CpHGP Header_header-item__login__e9I19" itemprop="url" data-modal="loginModal">
+                                        <div class="Header_header-item__img__40HPh">
+                                            <img alt="user-icon" srcset="_next/static/media/user-black.bd76743e.svg 1x, _next/static/media/user-black.bd76743e.svg 2x" src="_next/static/media/user-black.bd76743e.svg" width="24" height="24" decoding="async" data-nimg="future" loading="lazy" style="color:transparent">
+                                        </div>
+                                        <span class="Header_header-item__span__06cp8" itemprop="name">Войти</span>
+                                    </a>
+                                    <a href="#" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y Header_header-item__registration__N6nfI" data-modal="registerModal">
+                                        <span itemprop="name">Зарегистрироваться</span>
+                                    </a>
+                                </nav>
+                            </div>
+                        </div>
+                        <style>
+                            @keyframes fadeInDown-radium-animation-f2a06fc6 {
+                                from {
+                                    opacity: 0;
+                                    -webkit-transform: translate3d(0, -100%, 0);
+                                    -ms-transform: translate3d(0, -100%, 0);
+                                    transform: translate3d(0, -100%, 0);
+                                }
+                                to {
+                                    opacity: 1;
+                                    -webkit-transform: none;
+                                    -ms-transform: none;
+                                    transform: none;
+                                }
+                            }
+                        </style>
+                    </div>
+                </div>
+            </header>
+            <nav class="NavBarAdaptive_nav__IjbUl">
+                <a href="/" class="NavBarAdaptive_nav__item__HJ_up">
+                    <svg width="20" height="20" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.90788 7.33464L9.90898 2.33353L14.9101 7.33464H14.909V15.668H4.909V7.33464H4.90788ZM3.24233 9.00018L2.01165 10.2309L0.833984 9.0532L8.73147 1.15571C9.38179 0.505388 10.4362 0.505388 11.0865 1.15571L18.984 9.0532L17.8063 10.2309L16.5757 9.00021V15.668C16.5757 16.5884 15.8295 17.3346 14.909 17.3346H4.909C3.98852 17.3346 3.24233 16.5884 3.24233 15.668V9.00018Z" fill="var(--secondary-color)"></path>
+                    </svg>
+                    <span class="NavBarAdaptive_nav__item-text__639JY NavBarAdaptive_nav__item-text--active__ESjoe">Главная</span>
+                </a>
+                <div class="NavBarAdaptive_nav__item__HJ_up">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M22 7V5H2V7H22ZM22 11V13H2V11H22ZM22 17V19H2V17H22Z" fill="#000"></path>
+                    </svg>
+                    <span class="NavBarAdaptive_nav__item-text__639JY">Меню</span>
+                </div>
+                <div class="NavBarAdaptive_nav__item__HJ_up">
+                    <svg width="20" height="20" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9993 2.33464C13.9993 3.25511 14.7455 4.0013 15.666 4.0013C16.5865 4.0013 17.3327 3.25511 17.3327 2.33464C17.3327 1.41416 16.5865 0.667969 15.666 0.667969C14.7455 0.667969 13.9993 1.41416 13.9993 2.33464ZM15.666 10.668C14.7455 10.668 13.9993 9.92178 13.9993 9.0013C13.9993 8.08083 14.7455 7.33464 15.666 7.33464C16.5865 7.33464 17.3327 8.08083 17.3327 9.0013C17.3327 9.92178 16.5865 10.668 15.666 10.668ZM15.666 17.3346C14.7455 17.3346 13.9993 16.5884 13.9993 15.668C13.9993 14.7475 14.7455 14.0013 15.666 14.0013C16.5865 14.0013 17.3327 14.7475 17.3327 15.668C17.3327 16.5884 16.5865 17.3346 15.666 17.3346ZM8.99935 17.3346C8.07887 17.3346 7.33268 16.5884 7.33268 15.668C7.33268 14.7475 8.07887 14.0013 8.99935 14.0013C9.91982 14.0013 10.666 14.7475 10.666 15.668C10.666 16.5884 9.91982 17.3346 8.99935 17.3346ZM7.33268 9.0013C7.33268 9.92178 8.07887 10.668 8.99935 10.668C9.91982 10.668 10.666 9.92178 10.666 9.0013C10.666 8.08083 9.91982 7.33464 8.99935 7.33464C8.07887 7.33464 7.33268 8.08083 7.33268 9.0013ZM8.99935 4.0013C8.07887 4.0013 7.33268 3.25511 7.33268 2.33464C7.33268 1.41416 8.07887 0.667969 8.99935 0.667969C9.91982 0.667969 10.666 1.41416 10.666 2.33464C10.666 3.25511 9.91982 4.0013 8.99935 4.0013ZM0.666016 15.668C0.666016 16.5884 1.41221 17.3346 2.33268 17.3346C3.25316 17.3346 3.99935 16.5884 3.99935 15.668C3.99935 14.7475 3.25316 14.0013 2.33268 14.0013C1.41221 14.0013 0.666016 14.7475 0.666016 15.668ZM2.33268 10.668C1.41221 10.668 0.666016 9.92178 0.666016 9.0013C0.666016 8.08083 1.41221 7.33464 2.33268 7.33464C3.25316 7.33464 3.99935 8.08083 3.99935 9.0013C3.99935 9.92178 3.25316 10.668 2.33268 10.668ZM0.666016 2.33464C0.666016 3.25511 1.41221 4.0013 2.33268 4.0013C3.25316 4.0013 3.99935 3.25511 3.99935 2.33464C3.99935 1.41416 3.25316 0.667969 2.33268 0.667969C1.41221 0.667969 0.666016 1.41416 0.666016 2.33464Z" fill="#000"></path>
+                    </svg>
+                    <span class="NavBarAdaptive_nav__item-text__639JY">Сервисы</span>
+                </div>
+                <div class="NavBarAdaptive_nav__item__HJ_up">
+                    <svg width="20" height="20" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M11 22C4.92487 22 0 17.0751 0 11C0 4.92487 4.92487 0 11 0C17.0751 0 22 4.92487 22 11C22 17.0751 17.0751 22 11 22ZM18.3995 16.1246C19.4086 14.6703 20 12.9042 20 11C20 6.02944 15.9706 2 11 2C6.02944 2 2 6.02944 2 11C2 12.9042 2.59138 14.6703 3.6005 16.1246C4.72595 14.6381 7.3706 14 11 14C14.6294 14 17.274 14.6381 18.3995 16.1246ZM16.9647 17.7398C16.672 16.6874 14.5694 16 11 16C7.43062 16 5.328 16.6874 5.03532 17.7398C6.6233 19.1462 8.71194 20 11 20C13.2881 20 15.3767 19.1462 16.9647 17.7398ZM11 14C8.76086 14 7 12.4274 7 9C7 6.75576 8.5791 5 11 5C13.4142 5 15 6.92158 15 9.2C15 12.4796 13.2181 14 11 14ZM9 9C9 11.2693 9.81821 12 11 12C12.1777 12 13 11.2984 13 9.2C13 7.95042 12.2157 7 11 7C9.73374 7 9 7.81582 9 9Z" fill="#000"></path>
+                    </svg>
+                    <span class="NavBarAdaptive_nav__item-text__639JY">Войти</span>
+                </div>
+            </nav>
+            
+            <!-- Основное содержимое сайта -->
+            <div class="mb-auto Common_gap__Dk3BJ">
+                <!-- Главный баннер -->
+                <section class="Hero_section">
+                    <div class="Hero_content">
+                        <h1 class="Hero_title">Платформа по наставничеству</h1>
+                        <p class="Hero_description">Платформа объединяет крупные организации и верифицированных наставников из разных сфер. Вы можете найти одного из них для себя или присоединиться к сообществу наставников.</p>
+                        <div class="Hero_buttons">
+                            <a href="#" data-modal="become-mentor" class="Button_button__KOYeE Button_primary-button__Q4XtQ">Стать наставником</a>
+                            <a href="#" data-modal="find-mentor" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y">
+                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="Search_icon">
+                                    <path d="M17.5 17.5L12.5 12.5M14.1667 8.33333C14.1667 11.555 11.555 14.1667 8.33333 14.1667C5.11167 14.1667 2.5 11.555 2.5 8.33333C2.5 5.11167 5.11167 2.5 8.33333 2.5C11.555 2.5 14.1667 5.11167 14.1667 8.33333Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                                Найти наставника
+                            </a>
+                        </div>
+                    </div>
+                    <div class="Hero_circles_container">
+                        <div class="Hero_circles">
+                            <div class="Hero_circle">
+                                <img class="Hero_circle_image" src="_next/static/media/photo-1.a4edba10.jpg" alt="Наставник 1">
+                            </div>
+                            <div class="Hero_circle">
+                                <img class="Hero_circle_image" src="_next/static/media/photo-2.56bae2b9.jpg" alt="Наставник 2">
+                            </div>
+                            <div class="Hero_circle">
+                                <img class="Hero_circle_image" src="_next/static/media/photo-3.8c2451f8.jpg" alt="Наставник 3">
+                            </div>
+                        </div>
+                        <svg class="Hero_circles_curve" width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M419 1C289.5 1 1 136.5 1 419" stroke="white" stroke-width="2"/>
+                        </svg>
+                    </div>
+                </section>
+
+                <!-- Информационные блоки -->
+                <section class="Info_section">
+                    <div class="Info_header">
+                        <h2 class="Section_title">Что такое<br>наставничество?</h2>
+                        <div class="Info_description">
+                            <p>Наставничество позволяет передать опыт и знания через личное взаимодействие. Правильный разговор принесет больше, чем десятки часов поиска в интернете.</p>
+                            <p>Наша платформа объединяет наставников из самых разных сфер — в школьном и высшем образовании, в работе с «трудными» подростками и детьми-сиротами, в профессиональной сфере и предпринимательстве. Каждый сможет бесплатно найти наставника под свои конкретные потребности.</p>
+                        </div>
+                    </div>
+                    <div class="Info_container">
+                        <div class="Info_card">
+                            <div class="Info_icon">
+                                <img src="_next/static/media/onboarding.b486d1dd.svg" alt="Что такое наставничество" width="48" height="48">
+                            </div>
+                            <h3 class="Info_title">Что такое наставничество?</h3>
+                            <p class="Info_text">Наставничество — эффективный метод передачи знаний и опыта от более опытного человека к менее опытному.</p>
+                            <a href="#" class="Info_link" data-modal="what-is-mentoring">Узнать больше</a>
+                        </div>
+                        <div class="Info_card">
+                            <div class="Info_icon">
+                                <img src="_next/static/media/lightbulb.9d85ffeb.svg" alt="Как найти наставника" width="48" height="48">
+                            </div>
+                            <h3 class="Info_title">Как найти наставника?</h3>
+                            <p class="Info_text">Найдите идеального наставника, который поможет вам в вашем профессиональном и личностном развитии.</p>
+                            <a href="#" class="Info_link" data-modal="find-mentor">Узнать больше</a>
+                        </div>
+                        <div class="Info_card">
+                            <div class="Info_icon">
+                                <img src="_next/static/media/chats.acae3f75.svg" alt="Как стать наставником" width="48" height="48">
+                            </div>
+                            <h3 class="Info_title">Как стать наставником?</h3>
+                            <p class="Info_text">Поделитесь своими знаниями и опытом с другими, станьте наставником и помогите развитию других людей.</p>
+                            <a href="#" class="Info_link" data-modal="become-mentor">Узнать больше</a>
+                        </div>
+                    </div>
+                </section>
+                
+                <!-- Как найти наставника -->
+                <section class="HowTo_section">
+                    <h2 class="Section_title">Как найти наставника</h2>
+                    <div class="Steps_container">
+                        <div class="Step_card">
+                            <div class="Step_number">Шаг 1</div>
+                            <h3 class="Step_title">Выберите наставника</h3>
+                            <p class="Step_text">Найти в нашем каталоге верифицированных наставников подходящего вам специалиста. Вы можете отобрать его в соответствии с направлением, опытом, оценками пользователей и другими параметрами</p>
+                        </div>
+                        <div class="Step_card">
+                            <div class="Step_number">Шаг 2</div>
+                            <h3 class="Step_title">Напишите ему</h3>
+                            <p class="Step_text">Оставьте заявку на сайте. Постарайтесь четко сформулировать свой запрос — это повысит шансы, на то что наставник согласится с вами работать</p>
+                        </div>
+                        <div class="Step_card">
+                            <div class="Step_number">Шаг 3</div>
+                            <h3 class="Step_title">Дело за вами</h3>
+                            <p class="Step_text">После того как наставник одобрит вашу заявку, вы сможете договориться о встрече — при этом в системе автоматически будет создана ссылка на чат в VK Мессенджер для удобства вашей коммуникации с наставником</p>
+                        </div>
+                    </div>
+                    <div class="Steps_action">
+                        <a href="#" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y" data-modal="find-mentor-form">Найти наставника</a>
+                    </div>
+                </section>
+                
+                <!-- Как стать наставником -->
+                <section class="HowTo_section">
+                    <h2 class="Section_title">Как стать наставником</h2>
+                    <div class="Steps_container">
+                        <div class="Step_card">
+                            <div class="Step_number">Шаг 1</div>
+                            <h3 class="Step_title">Пройдите регистрацию</h3>
+                            <p class="Step_text">Нажмите на кнопку «Стать наставником». Пройдите регистрацию, выбрав свое направление деятельности и описав опыт. Корректное описание опыта повышает шансы на прохождение верификации.</p>
+                        </div>
+                        <div class="Step_card">
+                            <div class="Step_number">Шаг 2</div>
+                            <h3 class="Step_title">Верификация</h3>
+                            <p class="Step_text">Ваша анкета будет проверена одной из ведущих организаций в сфере наставничества — оператором направления.</p>
+                        </div>
+                        <div class="Step_card">
+                            <div class="Step_number">Шаг 3</div>
+                            <h3 class="Step_title">Начните наставничество</h3>
+                            <p class="Step_text">После проверки ваша анкета появится в каталоге верифицированных наставников. Вы сможете принимать заявки от наставляемых и назначать встречи. После работы с наставляемым вы сможете обменяться взаимными оценками.</p>
+                        </div>
+                    </div>
+                    <div class="Steps_action">
+                        <a href="#" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y" data-modal="become-mentor-form">Стать наставником</a>
+                    </div>
+                </section>
+                
+                <!-- Возможности платформы -->
+                <section class="Features_section">
+                    <h2 class="Section_title">Возможности платформы для наставников</h2>
+                    <div class="Features_container">
+                        <div class="Feature_card">
+                            <h3 class="Feature_title">Сообщество единомышленников</h3>
+                            <p class="Feature_text">Наша платформа объединяет верифицированных наставников из самых разных сфер, крупные организации, развивающие наставничество, и более 2,5 тыс. наставнических проектов.</p>
+                        </div>
+                        <div class="Feature_card">
+                            <h3 class="Feature_title">Возможности для развития</h3>
+                            <p class="Feature_text">Вместе с партнерами из Центра знаний «Машук», Академии наставников Сколково и организаций – операторов наставничества мы собираем в одном месте образовательные курсы, методические материалы, исследования в этой сфере. Все лучшие практики — для вас и вашего развития.</p>
+                        </div>
+                        <div class="Feature_card">
+                            <h3 class="Feature_title">Удобные инструменты</h3>
+                            <p class="Feature_text">Наша платформа соединяет наставников с теми, кому нужна ваша поддержка. Для вас — удобный личный кабинет с инструментами для управления контактной базой наставляемых. Плюс — интеграция с программой лояльности и другими возможностями платформы Добро.рф.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Курсы -->
+                <section class="Courses_section">
+                    <h2 class="Section_title">Курсы по наставничеству</h2>
+                    <div class="Courses_grid">
+                        <div class="Course_card">
+                            <div class="Course_header">
+                                <img class="Course_author_image" src="_next/static/media/main-photo-1.f1ea7b46.jpg" alt="Автор курса">
+                                <div class="Course_info">
+                                    <h3>Сила наставничества</h3>
+                                    <div class="Course_type">Основы</div>
+                                </div>
+                            </div>
+                            <p class="Course_annotation">
+                                Курс для начинающих наставников, который поможет освоить базовые принципы наставничества и эффективно передавать свои знания и опыт.
+                            </p>
+                            <div class="Course_button">
+                                <a href="#" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y">Пройти курс</a>
+                            </div>
+                        </div>
+
+                        <div class="Course_card">
+                            <div class="Course_header">
+                                <img class="Course_author_image" src="_next/static/media/main-photo-2.97d6b4e3.jpg" alt="Автор курса">
+                                <div class="Course_info">
+                                    <h3>Эффективные коммуникации</h3>
+                                    <div class="Course_type">Продвинутый</div>
+                                </div>
+                            </div>
+                            <p class="Course_annotation">
+                                Курс посвящен развитию навыков эффективной коммуникации в контексте наставничества, включая активное слушание и обратную связь.
+                            </p>
+                            <div class="Course_button">
+                                <a href="#" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y">Пройти курс</a>
+                            </div>
+                        </div>
+
+                        <div class="Course_card">
+                            <div class="Course_header">
+                                <img class="Course_author_image" src="_next/static/media/main-photo-3.45e12403.jpg" alt="Автор курса">
+                                <div class="Course_info">
+                                    <h3>Управление конфликтами</h3>
+                                    <div class="Course_type">Эксперт</div>
+                                </div>
+                            </div>
+                            <p class="Course_annotation">
+                                Продвинутый курс для опытных наставников, который поможет развить навыки управления сложными ситуациями и разрешения конфликтов.
+                            </p>
+                            <div class="Course_button">
+                                <a href="#" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y">Пройти курс</a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Блог -->
+                <!-- <section class="Blog_section">
+                    <h2 class="Section_title">Истории наставничества</h2>
+                    <div class="Blog_grid">
+                        <div class="Blog_card">
+                            <div class="Blog_image">
+                                <img src="_next/static/media/gradient.e8ce9f0d.png" alt="История художницы">
+                            </div>
+                            <div class="Blog_content">
+                                <h3 class="Blog_title">
+                                    <a href="#">История художницы, преодолевшей трудности благодаря наставнику</a>
+                                </h3>
+                                <div class="Blog_meta">
+                                    <div class="Blog_readTime">10 минут чтения</div>
+                                    <div class="Blog_tags">
+                                        <span class="Blog_tag">Истории</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section> -->
+            </div>
+            
+            <!-- Футер -->
+            <footer class="Footer_footer__eKcAD">
+                <div class="Footer_container">
+                    <div class="Footer_content">
+                        <!-- <div class="Footer_logo">
+                            <img src="_next/static/media/mentor-logo.2b69c931.svg" alt="Наставничество" class="Footer_logo_image">
+                        </div> -->
+                        <div class="Footer_links">
+                            <div class="Footer_column">
+                                <h4>О проекте</h4>
+                                <ul>
+                                    <li><a href="#">О наставничестве</a></li>
+                                    <li><a href="#">Как стать наставником</a></li>
+                                    <li><a href="#">Истории успеха</a></li>
+                                </ul>
+                            </div>
+                            <div class="Footer_column">
+                                <h4>Обучение</h4>
+                                <ul>
+                                    <li><a href="#">Все курсы</a></li>
+                                    <li><a href="#">Методические материалы</a></li>
+                                    <li><a href="#">Вебинары</a></li>
+                                </ul>
+                            </div>
+                            <div class="Footer_column">
+                                <h4>Контакты</h4>
+                                <ul>
+                                    <li><a href="mailto:info@наставник.рф">info@наставник.рф</a></li>
+                                    <li><a href="tel:+78000000000">8 800 000 00 00</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="Footer_bottom">
+                        <p class="Footer_copyright">©2025 Все права защищены.</p>
+                        <!-- <div class="Footer_social">
+                            <a href="#" class="Footer_social_link">
+                                <span class="visually-hidden">ВКонтакте</span>
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M15.07 2H8.93C3.33 2 2 3.33 2 8.93V15.07C2 20.67 3.33 22 8.93 22H15.07C20.67 22 22 20.67 22 15.07V8.93C22 3.33 20.67 2 15.07 2ZM18.15 16.27H16.69C16.14 16.27 15.97 15.82 14.86 14.72C13.86 13.77 13.49 13.67 13.27 13.67C12.96 13.67 12.87 13.76 12.87 14.18V15.77C12.87 16.09 12.75 16.27 11.82 16.27C10.28 16.27 8.57 15.32 7.33 13.59C5.45 11.05 4.92 9.13 4.92 8.77C4.92 8.6 4.99 8.44 5.32 8.44H6.79C7.13 8.44 7.27 8.57 7.41 8.93C8.1 10.95 9.35 12.74 9.93 12.74C10.13 12.74 10.22 12.65 10.22 12.18V10.08C10.15 9.04 9.61 8.95 9.61 8.63C9.61 8.5 9.72 8.37 9.91 8.37H12.18C12.46 8.37 12.58 8.5 12.58 8.84V11.71C12.58 11.98 12.73 12.1 12.83 12.1C13.03 12.1 13.19 11.98 13.56 11.61C14.67 10.39 15.46 8.52 15.46 8.52C15.55 8.35 15.72 8.19 16.06 8.19H17.53C17.92 8.19 18.01 8.38 17.92 8.7C17.72 9.64 16.33 11.71 16.33 11.71C16.16 12 16.09 12.13 16.33 12.44C16.5 12.67 17.07 13.16 17.46 13.61C18.19 14.43 18.77 15.13 18.91 15.61C19.06 16.09 18.86 16.27 18.15 16.27Z"/>
+                                </svg>
+                            </a>
+                            <a href="#" class="Footer_social_link">
+                                <span class="visually-hidden">Telegram</span>
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12ZM12.6927 9.13374C11.5461 9.60725 9.25161 10.5804 5.80923 12.0532C5.23421 12.2791 4.93725 12.5005 4.91834 12.7175C4.88415 13.1031 5.34992 13.2516 5.96792 13.4505C6.06377 13.4814 6.16321 13.5132 6.26584 13.5476C6.87332 13.7485 7.69357 13.9809 8.11951 13.9925C8.50734 14.003 8.94256 13.8501 9.42516 13.5337C12.6304 11.3325 14.2901 10.2217 14.4044 10.1014C14.4861 10.0172 14.5989 9.91806 14.6713 9.98006C14.7438 10.0421 14.736 10.1726 14.7278 10.2078C14.6771 10.4093 12.8833 12.0737 11.9498 12.9372C11.6401 13.2255 11.4208 13.4298 11.3752 13.4772C11.2734 13.5831 11.1695 13.6835 11.0701 13.7795C10.5143 14.3145 10.1051 14.7085 11.1011 15.3795C11.5809 15.7033 11.9691 15.9691 12.3564 16.2342C12.7816 16.5238 13.2059 16.8129 13.7525 17.1762C13.8911 17.2704 14.0239 17.3676 14.1532 17.4624C14.6427 17.8239 15.0805 18.1478 15.6273 18.0953C15.9473 18.0639 16.2798 17.7613 16.4491 16.8604C16.8601 14.8733 17.6673 10.5087 17.8541 8.72675C17.8681 8.56379 17.8538 8.35682 17.8429 8.26583C17.832 8.17485 17.8097 8.04787 17.6991 7.95687C17.5666 7.84812 17.3658 7.82675 17.2784 7.82883C16.8697 7.83716 16.2378 8.06425 12.6927 9.13374Z"/>
+                                </svg>
+                            </a>
+                        </div> -->
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    
+    <!-- JSON-данные для Next.js -->
+    <script id="__NEXT_DATA__" type="application/json">
+        {
+            "props": {
+                "pageProps": {
+                    "initialState": {
+                        "authReducer": {
+                            "registerLoading": false,
+                            "showParentalRegisterForm": false,
+                            "existingFormData": null,
+                            "registerSuccess": false,
+                            "registerError": null,
+                            "loginLoading": false,
+                            "loginError": null,
+                            "isLoggedIn": false,
+                            "countryCode": "",
+                            "countries": [],
+                            "settlement": "",
+                            "subsidiaryOrganizations": [],
+                            "magnitDistricts": []
+                        },
+                        "userReducer": {
+                            "location": null,
+                            "authMe": null,
+                            "authMeLoaded": false,
+                            "authMeEmpty": false,
+                            "notificationsData": [],
+                            "notificationsDataLoading": false,
+                            "chatUrl": "/chat_window",
+                            "headerUpdating": false
+                        }
+                    }
+                },
+                "page": "/",
+                "query": {},
+                "buildId": "_WZtFSAzLToHMy6iwWQ1_",
+                "isFallback": false,
+                "dynamicIds": [71586, 14793, 98405, 85750, 88559, 55313, 78560, 96473, 80206, 72085],
+                "gssp": true
+            }
+        }
+    </script>
+
+    <!-- Заменяем ссылки на модальные окна -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Обработка закрытия модальных окон
+            const closeButtons = document.querySelectorAll('.Modal_close');
+            closeButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    // Находим родительское модальное окно
+                    const modal = this.closest('.Modal_overlay');
+                    if(modal) {
+                        modal.style.display = 'none';
+                    }
+                });
+            });
+            
+            // Закрытие модальных окон при клике вне их содержимого
+            const modalOverlays = document.querySelectorAll('.Modal_overlay');
+            modalOverlays.forEach(modal => {
+                modal.addEventListener('click', function(e) {
+                    // Если клик был не по содержимому модального окна, то закрываем его
+                    if (e.target === this) {
+                        this.style.display = 'none';
+                    }
+                });
+            });
+            
+            // Определение переменной headerNav для глобального использования
+            const headerNav = document.querySelector('.Header_header-nav__uxzSC');
+            
+            // Проверка, авторизован ли пользователь
+            checkLoggedIn();
+            
+            // Обработка кнопок-триггеров модальных окон
+            const modalTriggers = document.querySelectorAll('[data-modal]');
+            modalTriggers.forEach(trigger => {
+                trigger.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const modalId = this.getAttribute('data-modal');
+                    showModal(modalId);
+                });
+            });
+            
+            // Закрытие модальных окон
+            const closeBtns = document.querySelectorAll('.Modal_close');
+            closeBtns.forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    this.closest('.Modal_overlay').style.display = 'none';
+                });
+            });
+            
+            // Закрытие по клику на оверлей
+            const modals = document.querySelectorAll('.Modal_overlay');
+            modals.forEach(function(modal) {
+                modal.addEventListener('click', function(e) {
+                    if(e.target === this) {
+                        this.style.display = 'none';
+                    }
+                });
+            });
+        });
+    </script>
+
+    <!-- Модальные окна -->
+    <div id="loginModal" class="Modal_overlay">
+        <div class="Modal_content">
+            <div class="Modal_header">
+                <h2>Вход</h2>
+                <button class="Modal_close">&times;</button>
+            </div>
+            <div class="Modal_body">
+                <form class="Modal_form">
+                    <div class="Modal_form_group">
+                        <label for="loginIdentifier">Логин или Email</label>
+                        <input type="text" id="loginIdentifier" placeholder="Введите логин или email" required>
+                    </div>
+                    <div class="Modal_form_group">
+                        <label for="loginPassword">Пароль</label>
+                        <input type="password" id="loginPassword" placeholder="Введите пароль" required>
+                    </div>
+                    <div class="Modal_form_group">
+                        <button type="submit" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y">Войти</button>
+                    </div>
+                    <div class="Modal_form_footer">
+                        <a href="#" class="Modal_link">Забыли пароль?</a>
+                        <span>Нет аккаунта? <a href="#" id="showRegister" class="Modal_link">Зарегистрироваться</a></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div id="registerModal" class="Modal_overlay">
+        <div class="Modal_content">
+            <div class="Modal_header">
+                <h2>Регистрация</h2>
+                <button class="Modal_close">&times;</button>
+            </div>
+            <div class="Modal_body">
+                <form class="Modal_form">
+                    <div class="Modal_form_group">
+                        <label for="registerName">Имя</label>
+                        <input type="text" id="registerName" placeholder="Введите имя" required>
+                    </div>
+                    <div class="Modal_form_group">
+                        <label for="registerLogin">Логин</label>
+                        <input type="text" id="registerLogin" placeholder="Введите логин" required>
+                    </div>
+                    <div class="Modal_form_group">
+                        <label for="registerEmail">Email</label>
+                        <input type="email" id="registerEmail" placeholder="Введите email" required>
+                    </div>
+                    <div class="Modal_form_group">
+                        <label for="registerPassword">Пароль</label>
+                        <input type="password" id="registerPassword" placeholder="Введите пароль" required>
+                    </div>
+                    <div class="Modal_form_group">
+                        <label for="registerPasswordConfirm">Подтвердите пароль</label>
+                        <input type="password" id="registerPasswordConfirm" placeholder="Повторите пароль" required>
+                    </div>
+                    <div class="Modal_form_group">
+                        <button type="submit" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y">Зарегистрироваться</button>
+                    </div>
+                    <div class="Modal_form_footer">
+                        <span>Уже есть аккаунт? <a href="#" id="showLogin" class="Modal_link">Войти</a></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Обработка всех кнопок и ссылок с модальными окнами
+            const modalLinks = document.querySelectorAll('[data-modal]');
+            
+            modalLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const modalId = this.getAttribute('data-modal');
+                    showModal(modalId);
+                });
+            });
+            
+            // Обработка форм регистрации
+            const registerForm = document.querySelector('#registerModal form');
+            if(registerForm) {
+                registerForm.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    
+                    const name = document.getElementById('registerName').value;
+                    const login = document.getElementById('registerLogin').value;
+                    const email = document.getElementById('registerEmail').value;
+                    const password = document.getElementById('registerPassword').value;
+                    const passwordConfirm = document.getElementById('registerPasswordConfirm').value;
+                    
+                    // Базовая валидация формы
+                    if (!name || !login || !email || !password || !passwordConfirm) {
+                        alert('Пожалуйста, заполните все поля формы');
+                        return;
+                    }
+                    
+                    if (password !== passwordConfirm) {
+                        alert('Пароли не совпадают');
+                        return;
+                    }
+                    
+                    if (password.length < 6) {
+                        alert('Пароль должен содержать не менее 6 символов');
+                        return;
+                    }
+                    
+                    // Проверяем уникальность логина и email
+                    let users = JSON.parse(localStorage.getItem('users') || '[]');
+                    if (users.some(user => user.email === email)) {
+                        alert('Пользователь с таким email уже зарегистрирован');
+                        return;
+                    }
+                    
+                    if (users.some(user => user.login === login)) {
+                        alert('Пользователь с таким логином уже зарегистрирован');
+                        return;
+                    }
+                    
+                    // Сохраняем в localStorage
+                    saveUser(name, login, email, password);
+                    
+                    // Оповещаем пользователя
+                    alert('Регистрация успешно завершена!');
+                    
+                    // Закрываем модальное окно
+                    document.getElementById('registerModal').style.display = 'none';
+                    
+                    // Автоматически входим в систему
+                    localStorage.setItem('loggedUser', name);
+                    updateHeaderForLoggedUser(name);
+                });
+            }
+            
+            // Обработка формы входа
+            const loginForm = document.querySelector('#loginModal form');
+            if(loginForm) {
+                loginForm.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    
+                    const identifier = document.getElementById('loginIdentifier').value;
+                    const password = document.getElementById('loginPassword').value;
+                    
+                    // Базовая валидация формы
+                    if (!identifier || !password) {
+                        alert('Пожалуйста, заполните все поля формы');
+                        return;
+                    }
+                    
+                    // Проверяем учетные данные
+                    const name = getUserNameByCredentials(identifier, password);
+                    if(name) {
+                        alert(`Добро пожаловать, ${name}!`);
+                        document.getElementById('loginModal').style.display = 'none';
+                        
+                        // Меняем кнопки входа на информацию о пользователе
+                        updateHeaderForLoggedUser(name);
+                    } else {
+                        alert('Неверный email или пароль');
+                    }
+                });
+            }
+            
+            // Переключение между формами
+            const showRegisterLink = document.getElementById('showRegister');
+            const showLoginLink = document.getElementById('showLogin');
+            
+            if(showRegisterLink) {
+                showRegisterLink.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    document.getElementById('loginModal').style.display = 'none';
+                    document.getElementById('registerModal').style.display = 'flex';
+                });
+            }
+            
+            if(showLoginLink) {
+                showLoginLink.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    document.getElementById('registerModal').style.display = 'none';
+                    document.getElementById('loginModal').style.display = 'flex';
+                });
+            }
+            
+            // Проверка, авторизован ли пользователь
+            checkLoggedIn();
+        });
+        
+        // Функции для работы с localStorage
+        function saveUser(name, email, password) {
+            let users = JSON.parse(localStorage.getItem('users') || '[]');
+            users.push({ name, email, password });
+            localStorage.setItem('users', JSON.stringify(users));
+        }
+        
+        function checkUser(email, password) {
+            let users = JSON.parse(localStorage.getItem('users') || '[]');
+            return users.some(user => user.email === email && user.password === password);
+        }
+        
+        function getUserName(email) {
+            let users = JSON.parse(localStorage.getItem('users') || '[]');
+            const user = users.find(u => u.email === email);
+            return user ? user.name : '';
+        }
+        
+        function getUserNameByCredentials(email, password) {
+            let users = JSON.parse(localStorage.getItem('users') || '[]');
+            const user = users.find(u => u.email === email && u.password === password);
+            return user ? user.name : null;
+        }
+        
+        function checkLoggedIn() {
+            const loggedUser = localStorage.getItem('loggedUser');
+            if (loggedUser) {
+                updateHeaderForLoggedUser(loggedUser);
+                return true;
+            }
+            return false;
+        }
+        
+        function updateHeaderForLoggedUser(name) {
+            // Сохраняем текущего пользователя
+            localStorage.setItem('loggedUser', name);
+            
+            // Получаем элементы
+            const headerNav = document.querySelector('.Header_header-nav__uxzSC');
+            const loginButton = document.querySelector('.Header_header-item__login__e9I19');
+            const registerButton = document.querySelector('.Header_header-item__registration__N6nfI');
+            
+            // Скрываем кнопки входа и регистрации
+            if(loginButton) loginButton.style.display = 'none';
+            if(registerButton) registerButton.style.display = 'none';
+            
+            // Получаем данные пользователя
+            const users = JSON.parse(localStorage.getItem('users') || '[]');
+            const currentUser = users.find(user => user.name === name);
+            const isAdmin = currentUser && currentUser.isAdmin;
+            
+            // Проверяем, есть ли уже профиль пользователя
+            if(!document.querySelector('.user-profile')) {
+                // Создаем элемент для профиля пользователя
+                const userProfile = document.createElement('div');
+                userProfile.className = 'user-profile';
+                
+                // Добавляем специальные пункты меню для администратора
+                const adminMenuItems = isAdmin ? `
+                    <a href="#" class="user-profile-link admin-link" id="showUsersLink">Управление пользователями</a>
+                    <a href="#" class="user-profile-link admin-link" id="showCoursesAdminLink">Управление курсами</a>
+                    <a href="#" class="user-profile-link admin-link" id="showStatisticsLink">Статистика</a>
+                ` : '';
+                
+                userProfile.innerHTML = `
+                    <div class="user-profile-button">
+                        <img src="_next/static/media/userCirclePlus.f53237ed.svg" alt="Профиль" width="32" height="32">
+                        <span>${name}</span>
+                        ${isAdmin ? '<span class="admin-badge">Администратор</span>' : ''}
+                    </div>
+                    <div class="user-profile-menu">
+                        <div class="user-profile-header">
+                            <img src="_next/static/media/user-black.bd76743e.svg" alt="Пользователь" width="48" height="48">
+                            <div class="user-profile-info">
+                                <span class="user-profile-name">${name}</span>
+                                <span class="user-profile-status">${isAdmin ? 'Администратор' : 'Пользователь'}</span>
+                            </div>
+                        </div>
+                        <div class="user-profile-links">
+                            ${adminMenuItems}
+                            <a href="#" class="user-profile-link" id="showProfileLink">Мой профиль</a>
+                            <a href="#" class="user-profile-link" id="showCoursesLink">Мои курсы</a>
+                            <a href="#" class="user-profile-link">Настройки</a>
+                            <a href="#" id="logoutButton" class="user-profile-link user-profile-logout">Выйти</a>
+                        </div>
+                    </div>
+                `;
+                
+                headerNav.appendChild(userProfile);
+                
+                // Добавляем стили для админ-панели
+                const adminStyles = document.createElement('style');
+                adminStyles.textContent = `
+                    .admin-badge {
+                        background-color: #ff4b4b;
+                        color: white;
+                        padding: 2px 8px;
+                        border-radius: 10px;
+                        font-size: 12px;
+                        margin-left: 8px;
+                    }
+                    
+                    .admin-link {
+                        color: #ff4b4b !important;
+  font-weight: 600;
+}
+
+                    .admin-link:hover {
+                        background-color: #fff0f0;
+                    }
+                `;
+                document.head.appendChild(adminStyles);
+                
+                // Добавляем обработчики для админ-функций
+                if(isAdmin) {
+                    document.getElementById('showUsersLink').addEventListener('click', function(e) {
+                        e.preventDefault();
+                        showUsersManagement();
+                    });
+                    
+                    document.getElementById('showCoursesAdminLink').addEventListener('click', function(e) {
+                        e.preventDefault();
+                        showCoursesManagement();
+                    });
+                    
+                    document.getElementById('showStatisticsLink').addEventListener('click', function(e) {
+                        e.preventDefault();
+                        showStatistics();
+                    });
+                }
+                
+                // Остальные обработчики...
+                // ... existing code ...
+                
+                // Добавляем обработчик для кнопки профиля
+                const profileButton = document.querySelector('.user-profile-button');
+                profileButton.addEventListener('click', function() {
+                    const menu = document.querySelector('.user-profile-menu');
+                    menu.classList.toggle('active');
+                });
+                
+                // Закрытие меню при клике вне него
+                document.addEventListener('click', function(e) {
+                    const menu = document.querySelector('.user-profile-menu');
+                    const button = document.querySelector('.user-profile-button');
+                    if (menu && menu.classList.contains('active') && !button.contains(e.target) && !menu.contains(e.target)) {
+                        menu.classList.remove('active');
+                    }
+                });
+                
+                // Добавляем обработчик для кнопки выхода
+                document.getElementById('logoutButton').addEventListener('click', function(e) {
+                    e.preventDefault();
+                    logout();
+                });
+                
+                // Добавляем обработчик для просмотра курсов
+                document.getElementById('showCoursesLink').addEventListener('click', function(e) {
+                    e.preventDefault();
+                    showUserCourses();
+                });
+                
+                // Добавляем обработчик для просмотра профиля
+                document.getElementById('showProfileLink').addEventListener('click', function(e) {
+                    e.preventDefault();
+                    showUserProfile();
+                });
+            }
+        }
+        
+        // Добавляем функции управления для администратора
+        function showUsersManagement() {
+            const users = JSON.parse(localStorage.getItem('users') || '[]');
+            
+            let modal = document.createElement('div');
+            modal.className = 'Modal_overlay';
+            modal.innerHTML = `
+                <div class="Modal_content">
+                    <div class="Modal_header">
+                        <h2 class="Modal_title">Управление пользователями</h2>
+                        <button class="Modal_close">&times;</button>
+                    </div>
+                    <div class="Modal_body">
+                        <div class="Modal_actions" style="margin-bottom: 20px;">
+                            <button class="Modal_button Modal_button_primary" id="addUserBtn">Добавить пользователя</button>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="Modal_table">
+                                <thead>
+                                    <tr>
+                                        <th>Имя</th>
+                                        <th>Логин</th>
+                                        <th>Email</th>
+                                        <th>Статус</th>
+                                        <th>Действия</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    ${users.map(user => `
+                                        <tr>
+                                            <td>${user.name}</td>
+                                            <td>${user.login || 'Н/Д'}</td>
+                                            <td>${user.email}</td>
+                                            <td>
+                                                <span class="status-badge ${user.isAdmin ? 'admin' : 'user'}">
+                                                    ${user.isAdmin ? 'Администратор' : 'Пользователь'}
+                                                </span>
+                                            </td>
+                                            <td class="Modal_actions">
+                                                ${!user.isAdmin ? `
+                                                    <button class="Modal_action_button Modal_action_button_edit" onclick="editUser('${user.login || user.email}')">
+                                                        Редактировать
+                                                    </button>
+                                                    <button class="Modal_action_button Modal_action_button_delete" onclick="deleteUser('${user.login || user.email}')">
+                                                        Удалить
+                                                    </button>
+                                                ` : ''}
+                                            </td>
+                                        </tr>
+                                    `).join('')}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            modal.style.display = 'flex';
+            
+            // Добавляем стили для статусов
+            const statusStyles = document.createElement('style');
+            statusStyles.textContent = `
+                .status-badge {
+  padding: 4px 8px;
+                    border-radius: 12px;
+                    font-size: 0.85rem;
+                    font-weight: 500;
+                }
+                
+                .status-badge.admin {
+                    background-color: #e3f2fd;
+                    color: #1976d2;
+                }
+                
+                .status-badge.user {
+                    background-color: #f5f5f5;
+                    color: #616161;
+                }
+                
+                .table-responsive {
+                    overflow-x: auto;
+                    margin: 0 -20px;
+                    padding: 0 20px;
+                }
+            `;
+            document.head.appendChild(statusStyles);
+            
+            // Обработчики закрытия
+            const closeButton = modal.querySelector('.Modal_close');
+            closeButton.addEventListener('click', () => modal.remove());
+            
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) modal.remove();
+            });
+            
+            // Обработчик добавления пользователя
+            document.getElementById('addUserBtn').addEventListener('click', () => {
+                showAddUserModal();
+            });
+        }
+
+        function showAddUserModal() {
+            let modal = document.createElement('div');
+            modal.className = 'Modal_overlay';
+            modal.innerHTML = `
+                <div class="Modal_content">
+                    <div class="Modal_header">
+                        <h2 class="Modal_title">Добавление пользователя</h2>
+                        <button class="Modal_close">&times;</button>
+                    </div>
+                    <div class="Modal_body">
+                        <form class="Modal_form" id="addUserForm">
+                            <div class="Modal_form_group">
+                                <label for="newUserName">Имя</label>
+                                <input type="text" id="newUserName" required>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="newUserLogin">Логин</label>
+                                <input type="text" id="newUserLogin" required>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="newUserEmail">Email</label>
+                                <input type="email" id="newUserEmail" required>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="newUserPassword">Пароль</label>
+                                <input type="password" id="newUserPassword" required>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="newUserRole">Роль</label>
+                                <select id="newUserRole">
+                                    <option value="user">Пользователь</option>
+                                    <option value="admin">Администратор</option>
+                                </select>
+                            </div>
+                            <div class="Modal_actions">
+                                <button type="submit" class="Modal_button Modal_button_primary">Добавить</button>
+                                <button type="button" class="Modal_button" onclick="this.closest('.Modal_overlay').remove()">Отмена</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            modal.style.display = 'flex';
+            
+            // Обработчик формы
+            document.getElementById('addUserForm').addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const name = document.getElementById('newUserName').value;
+                const login = document.getElementById('newUserLogin').value;
+                const email = document.getElementById('newUserEmail').value;
+                const password = document.getElementById('newUserPassword').value;
+                const role = document.getElementById('newUserRole').value;
+                
+                // Проверяем уникальность логина и email
+                let users = JSON.parse(localStorage.getItem('users') || '[]');
+                if (users.some(user => user.email === email)) {
+                    alert('Пользователь с таким email уже существует');
+                    return;
+                }
+                if (users.some(user => user.login === login)) {
+                    alert('Пользователь с таким логином уже существует');
+                    return;
+                }
+                
+                // Добавляем нового пользователя
+                users.push({
+                    name,
+                    login,
+                    email,
+                    password,
+                    isAdmin: role === 'admin'
+                });
+                
+                localStorage.setItem('users', JSON.stringify(users));
+                
+                // Закрываем модальное окно и обновляем список пользователей
+                modal.remove();
+                showUsersManagement();
+            });
+        }
+
+        function editUser(identifier) {
+            const users = JSON.parse(localStorage.getItem('users') || '[]');
+            const user = users.find(u => u.login === identifier || u.email === identifier);
+            
+            if (!user) return;
+            
+            let modal = document.createElement('div');
+            modal.className = 'Modal_overlay';
+            modal.innerHTML = `
+                <div class="Modal_content">
+                    <div class="Modal_header">
+                        <h2 class="Modal_title">Редактирование пользователя</h2>
+                        <button class="Modal_close">&times;</button>
+                    </div>
+                    <div class="Modal_body">
+                        <form class="Modal_form" id="editUserForm">
+                            <div class="Modal_form_group">
+                                <label for="editUserName">Имя</label>
+                                <input type="text" id="editUserName" value="${user.name}" required>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="editUserLogin">Логин</label>
+                                <input type="text" id="editUserLogin" value="${user.login || ''}" required>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="editUserEmail">Email</label>
+                                <input type="email" id="editUserEmail" value="${user.email}" required>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="editUserPassword">Новый пароль (оставьте пустым, чтобы не менять)</label>
+                                <input type="password" id="editUserPassword">
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="editUserRole">Роль</label>
+                                <select id="editUserRole">
+                                    <option value="user" ${!user.isAdmin ? 'selected' : ''}>Пользователь</option>
+                                    <option value="admin" ${user.isAdmin ? 'selected' : ''}>Администратор</option>
+                                </select>
+                            </div>
+                            <div class="Modal_actions">
+                                <button type="submit" class="Modal_button Modal_button_primary">Сохранить</button>
+                                <button type="button" class="Modal_button" onclick="this.closest('.Modal_overlay').remove()">Отмена</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            modal.style.display = 'flex';
+            
+            // Обработчик формы
+            document.getElementById('editUserForm').addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const name = document.getElementById('editUserName').value;
+                const login = document.getElementById('editUserLogin').value;
+                const email = document.getElementById('editUserEmail').value;
+                const password = document.getElementById('editUserPassword').value;
+                const role = document.getElementById('editUserRole').value;
+                
+                // Проверяем уникальность логина и email
+                let users = JSON.parse(localStorage.getItem('users') || '[]');
+                const userIndex = users.findIndex(u => u.login === identifier || u.email === identifier);
+                
+                if (userIndex === -1) return;
+                
+                // Проверяем, не заняты ли логин и email другими пользователями
+                if (users.some((u, index) => index !== userIndex && u.email === email)) {
+                    alert('Пользователь с таким email уже существует');
+                    return;
+                }
+                if (users.some((u, index) => index !== userIndex && u.login === login)) {
+                    alert('Пользователь с таким логином уже существует');
+                    return;
+                }
+                
+                // Обновляем данные пользователя
+                users[userIndex] = {
+                    ...users[userIndex],
+                    name,
+                    login,
+                    email,
+                    isAdmin: role === 'admin'
+                };
+                
+                // Обновляем пароль только если он был введен
+                if (password) {
+                    users[userIndex].password = password;
+                }
+                
+                localStorage.setItem('users', JSON.stringify(users));
+                
+                // Закрываем модальное окно и обновляем список пользователей
+                modal.remove();
+                showUsersManagement();
+            });
+        }
+
+        function deleteUser(identifier) {
+            const users = JSON.parse(localStorage.getItem('users') || '[]');
+            const user = users.find(u => u.login === identifier || u.email === identifier);
+            
+            if (!user) return;
+            
+            // Создаем модальное окно подтверждения
+            let modal = document.createElement('div');
+            modal.className = 'Modal_overlay';
+            modal.innerHTML = `
+                <div class="Modal_content">
+                    <div class="Modal_header">
+                        <h2 class="Modal_title">Подтверждение удаления</h2>
+                        <button class="Modal_close">&times;</button>
+                    </div>
+                    <div class="Modal_body">
+                        <p>Вы действительно хотите удалить пользователя "${user.name}"?</p>
+                        <p>Это действие нельзя отменить.</p>
+                        <div class="Modal_actions">
+                            <button class="Modal_button Modal_button_danger" id="confirmDelete">Удалить</button>
+                            <button class="Modal_button" onclick="this.closest('.Modal_overlay').remove()">Отмена</button>
+                        </div>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            modal.style.display = 'flex';
+            
+            // Обработчик подтверждения удаления
+            document.getElementById('confirmDelete').addEventListener('click', () => {
+                // Удаляем пользователя из списка
+                const updatedUsers = users.filter(u => u.login !== identifier && u.email !== identifier);
+                localStorage.setItem('users', JSON.stringify(updatedUsers));
+                
+                // Закрываем модальное окно подтверждения
+                modal.remove();
+                
+                // Обновляем список пользователей
+                showUsersManagement();
+            });
+            
+            // Обработчик закрытия
+            const closeButton = modal.querySelector('.Modal_close');
+            closeButton.addEventListener('click', () => modal.remove());
+            
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) modal.remove();
+            });
+        }
+
+        function showCoursesManagement() {
+            // Получаем список курсов
+            const allCourses = JSON.parse(localStorage.getItem('adminCourses') || '[]');
+            
+            let modal = document.createElement('div');
+            modal.className = 'Modal_overlay';
+            modal.innerHTML = `
+                <div class="Modal_content">
+                    <div class="Modal_header">
+                        <h2>Управление курсами</h2>
+                        <button class="Modal_close">&times;</button>
+                    </div>
+                    <div class="Modal_body">
+                        <button class="admin-action-btn" id="addNewCourseBtn">Добавить новый курс</button>
+                        <div class="courses-list">
+                            ${allCourses.length > 0 ? `
+                                <table class="admin-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Название курса</th>
+                                            <th>Категория</th>
+                                            <th>Действия</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        ${allCourses.map((course, index) => `
+                                            <tr>
+                                                <td>${course.title}</td>
+                                                <td>${course.category}</td>
+                                                <td>
+                                                    <button class="admin-action-btn" onclick="editCourse(${index})">Редактировать</button>
+                                                    <button class="admin-action-btn" onclick="deleteCourse(${index})">Удалить</button>
+                                                </td>
+                                            </tr>
+                                        `).join('')}
+                                    </tbody>
+                                </table>
+                            ` : '<p>Пока нет добавленных курсов</p>'}
+                        </div>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            modal.style.display = 'flex';
+            
+            // Обработчики закрытия
+            const closeButton = modal.querySelector('.Modal_close');
+            closeButton.addEventListener('click', () => modal.remove());
+            
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) modal.remove();
+            });
+            
+            // Добавляем обработчик для кнопки добавления курса
+            document.getElementById('addNewCourseBtn').addEventListener('click', function() {
+                addNewCourse();
+            });
+        }
+
+        function addNewCourse() {
+            // Закрываем предыдущее модальное окно если оно открыто
+            const prevModal = document.querySelector('.Modal_overlay');
+            if (prevModal) prevModal.remove();
+            
+            // Создаем модальное окно для добавления курса
+            let modal = document.createElement('div');
+            modal.className = 'Modal_overlay';
+            modal.innerHTML = `
+                <div class="Modal_content">
+                    <div class="Modal_header">
+                        <h2>Добавление нового курса</h2>
+                        <button class="Modal_close">&times;</button>
+                    </div>
+                    <div class="Modal_body">
+                        <form class="Modal_form" id="addCourseForm">
+                            <div class="Modal_form_group">
+                                <label for="courseTitle">Название курса</label>
+                                <input type="text" id="courseTitle" placeholder="Введите название курса" required>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="courseCategory">Категория</label>
+                                <select id="courseCategory" required>
+                                    <option value="">Выберите категорию</option>
+                                    <option value="education">Образование</option>
+                                    <option value="business">Бизнес</option>
+                                    <option value="it">Информационные технологии</option>
+                                    <option value="art">Искусство</option>
+                                    <option value="science">Наука</option>
+                                </select>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="courseDescription">Описание курса</label>
+                                <textarea id="courseDescription" placeholder="Введите описание курса" required></textarea>
+                            </div>
+                            <div class="Modal_form_group">
+                                <button type="submit" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y">Добавить курс</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            modal.style.display = 'flex';
+            
+            // Обработчики закрытия
+            const closeButton = modal.querySelector('.Modal_close');
+            closeButton.addEventListener('click', () => {
+                modal.remove();
+                showCoursesManagement();
+            });
+            
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.remove();
+                    showCoursesManagement();
+                }
+            });
+            
+            // Обработчик формы добавления курса
+            document.getElementById('addCourseForm').addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const title = document.getElementById('courseTitle').value;
+                const category = document.getElementById('courseCategory').value;
+                const description = document.getElementById('courseDescription').value;
+                
+                // Сохраняем курс
+                let courses = JSON.parse(localStorage.getItem('adminCourses') || '[]');
+                courses.push({ title, category, description, createdAt: new Date().toISOString() });
+                localStorage.setItem('adminCourses', JSON.stringify(courses));
+                
+                // Также добавляем курс в список реальных курсов на странице
+                addCourseToPage(title, category, description);
+                
+                // Закрываем модальное окно и показываем список курсов
+                modal.remove();
+                showCoursesManagement();
+            });
+        }
+
+        function editCourse(index) {
+            // Получаем список курсов
+            const courses = JSON.parse(localStorage.getItem('adminCourses') || '[]');
+            const course = courses[index];
+            
+            // Закрываем предыдущее модальное окно если оно открыто
+            const prevModal = document.querySelector('.Modal_overlay');
+            if (prevModal) prevModal.remove();
+            
+            // Создаем модальное окно для редактирования курса
+            let modal = document.createElement('div');
+            modal.className = 'Modal_overlay';
+            modal.innerHTML = `
+                <div class="Modal_content">
+                    <div class="Modal_header">
+                        <h2>Редактирование курса</h2>
+                        <button class="Modal_close">&times;</button>
+                    </div>
+                    <div class="Modal_body">
+                        <form class="Modal_form" id="editCourseForm">
+                            <div class="Modal_form_group">
+                                <label for="editCourseTitle">Название курса</label>
+                                <input type="text" id="editCourseTitle" value="${course.title}" required>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="editCourseCategory">Категория</label>
+                                <select id="editCourseCategory" required>
+                                    <option value="">Выберите категорию</option>
+                                    <option value="education" ${course.category === 'education' ? 'selected' : ''}>Образование</option>
+                                    <option value="business" ${course.category === 'business' ? 'selected' : ''}>Бизнес</option>
+                                    <option value="it" ${course.category === 'it' ? 'selected' : ''}>Информационные технологии</option>
+                                    <option value="art" ${course.category === 'art' ? 'selected' : ''}>Искусство</option>
+                                    <option value="science" ${course.category === 'science' ? 'selected' : ''}>Наука</option>
+                                </select>
+                            </div>
+                            <div class="Modal_form_group">
+                                <label for="editCourseDescription">Описание курса</label>
+                                <textarea id="editCourseDescription" required>${course.description}</textarea>
+                            </div>
+                            <div class="Modal_form_group">
+                                <input type="hidden" id="editCourseIndex" value="${index}">
+                                <button type="submit" class="Button_button__KOYeE Button_primary-outline-button__26Y1Y">Сохранить изменения</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            modal.style.display = 'flex';
+            
+            // Обработчики закрытия
+            const closeButton = modal.querySelector('.Modal_close');
+            closeButton.addEventListener('click', () => {
+                modal.remove();
+                showCoursesManagement();
+            });
+            
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.remove();
+                    showCoursesManagement();
+                }
+            });
+            
+            // Обработчик формы редактирования курса
+            document.getElementById('editCourseForm').addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const index = document.getElementById('editCourseIndex').value;
+                const title = document.getElementById('editCourseTitle').value;
+                const category = document.getElementById('editCourseCategory').value;
+                const description = document.getElementById('editCourseDescription').value;
+                
+                // Сохраняем изменения
+                let courses = JSON.parse(localStorage.getItem('adminCourses') || '[]');
+                courses[index] = { 
+                    ...courses[index],
+                    title, 
+                    category, 
+                    description,
+                    updatedAt: new Date().toISOString()
+                };
+                localStorage.setItem('adminCourses', JSON.stringify(courses));
+                
+                // Обновляем курс на странице (если это возможно)
+                updateCourseOnPage(index, title, category, description);
+                
+                // Закрываем модальное окно и показываем список курсов
+                modal.remove();
+                showCoursesManagement();
+            });
+        }
+
+        function deleteCourse(index) {
+            if(confirm('Вы уверены, что хотите удалить этот курс?')) {
+                // Удаляем курс из списка администратора
+                let courses = JSON.parse(localStorage.getItem('adminCourses') || '[]');
+                const deletedCourse = courses[index];
+                courses.splice(index, 1);
+                localStorage.setItem('adminCourses', JSON.stringify(courses));
+                
+                // Также удаляем запись о курсе из userCourses если есть
+                let userCourses = JSON.parse(localStorage.getItem('userCourses') || '[]');
+                userCourses = userCourses.filter(course => course !== deletedCourse.title);
+                localStorage.setItem('userCourses', JSON.stringify(userCourses));
+                
+                // Удаляем курс со страницы (если возможно)
+                removeCourseFromPage(deletedCourse.title);
+                
+                // Обновляем список курсов
+                document.querySelector('.Modal_overlay').remove();
+                showCoursesManagement();
+            }
+        }
+
+        function addCourseToPage(title, category, description) {
+            // Получаем контейнер с курсами
+            const courseContainer = document.querySelector('.Courses_courses-grid__kJrLq');
+            if (!courseContainer) return; // Если контейнер не найден, ничего не делаем
+            
+            // Создаем новый курс
+            const courseCard = document.createElement('div');
+            courseCard.className = 'Course_card';
+            courseCard.innerHTML = `
+                <h3 class="Course_title">${title}</h3>
+                <div class="Course_meta">
+                    <span class="Course_category">Категория: ${getCategoryName(category)}</span>
+                    <span class="Course_duration">Длительность: 4 недели</span>
+                </div>
+                <p class="Course_description">${description}</p>
+                <div class="Course_footer">
+                    <button class="Course_button">Записаться</button>
+                </div>
+            `;
+            
+            // Добавляем курс в контейнер
+            courseContainer.appendChild(courseCard);
+            
+            // Добавляем обработчик для кнопки записи
+            const enrollButton = courseCard.querySelector('.Course_button');
+            enrollButton.addEventListener('click', function() {
+                const loggedUser = localStorage.getItem('loggedUser');
+                if(loggedUser) {
+                    const courseTitle = courseCard.querySelector('.Course_title').textContent;
+                    
+                    // Сохраняем информацию о записи на курс
+                    let userCourses = JSON.parse(localStorage.getItem('userCourses') || '[]');
+                    if(!userCourses.includes(courseTitle)) {
+                        userCourses.push(courseTitle);
+                        localStorage.setItem('userCourses', JSON.stringify(userCourses));
+                        alert(`Вы успешно записались на курс "${courseTitle}"`);
+                    } else {
+                        alert(`Вы уже записаны на курс "${courseTitle}"`);
+                    }
+                } else {
+                    // Если пользователь не авторизован, показываем сообщение и модальное окно входа
+                    alert('Для записи на курс необходимо войти в систему');
+                    showModal('loginModal');
+                }
+            });
+        }
+
+        function updateCourseOnPage(index, title, category, description) {
+            // В данной реализации просто добавляем новые курсы, не обновляем существующие
+            // Для полноценного обновления нужно знать структуру DOM на странице
+        }
+
+        function removeCourseFromPage(title) {
+            // Получаем все карточки курсов
+            const courseCards = document.querySelectorAll('.Course_card');
+            
+            // Находим и удаляем карточку с нужным заголовком
+            courseCards.forEach(card => {
+                const cardTitle = card.querySelector('.Course_title').textContent;
+                if(cardTitle === title) {
+                    card.remove();
+                }
+            });
+        }
+
+        function getCategoryName(category) {
+            const categories = {
+                'education': 'Образование',
+                'business': 'Бизнес',
+                'it': 'Информационные технологии',
+                'art': 'Искусство',
+                'science': 'Наука'
+            };
+            return categories[category] || category;
+        }
+
+        function showStatistics() {
+            const users = JSON.parse(localStorage.getItem('users') || '[]');
+            const userCourses = JSON.parse(localStorage.getItem('userCourses') || '[]');
+            const adminCourses = JSON.parse(localStorage.getItem('adminCourses') || '[]');
+            
+            // Получаем статистику записей по курсам
+            const courseEnrollmentStats = {};
+            userCourses.forEach(courseTitle => {
+                if(courseEnrollmentStats[courseTitle]) {
+                    courseEnrollmentStats[courseTitle]++;
+                } else {
+                    courseEnrollmentStats[courseTitle] = 1;
+                }
+            });
+            
+            // Создаем HTML для отображения статистики по курсам
+            let courseStatsHTML = '';
+            if(Object.keys(courseEnrollmentStats).length > 0) {
+                courseStatsHTML = `
+                    <div class="stats-section">
+                        <h3>Статистика по курсам</h3>
+                        <table class="admin-table">
+                            <thead>
+                                <tr>
+                                    <th>Название курса</th>
+                                    <th>Количество записей</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                ${Object.entries(courseEnrollmentStats).map(([course, count]) => `
+                                    <tr>
+                                        <td>${course}</td>
+                                        <td>${count}</td>
+                                    </tr>
+                                `).join('')}
+                            </tbody>
+                        </table>
+                    </div>
+                `;
+            }
+            
+            let modal = document.createElement('div');
+            modal.className = 'Modal_overlay';
+            modal.innerHTML = `
+                <div class="Modal_content stats-modal">
+                    <div class="Modal_header">
+                        <h2>Статистика платформы</h2>
+                        <button class="Modal_close">&times;</button>
+                    </div>
+                    <div class="Modal_body">
+                        <div class="stats-container">
+                            <div class="stat-card">
+                                <h3>Пользователи</h3>
+                                <p class="stat-number">${users.length}</p>
+                            </div>
+                            <div class="stat-card">
+                                <h3>Курсы</h3>
+                                <p class="stat-number">${adminCourses.length}</p>
+                            </div>
+                            <div class="stat-card">
+                                <h3>Записи на курсы</h3>
+                                <p class="stat-number">${userCourses.length}</p>
+                            </div>
+                        </div>
+                        
+                        ${courseStatsHTML}
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            modal.style.display = 'flex';
+            
+            // Добавляем стили для статистики
+            const statsStyles = document.createElement('style');
+            statsStyles.textContent = `
+                .stats-modal {
+                    max-width: 800px;
+                    width: 100%;
+                    max-height: 90vh;
+                    overflow-y: auto;
+                }
+                
+                .stats-container {
+                    display: grid;
+                    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+                    gap: 20px;
+                    padding: 20px;
+                }
+                
+                .stat-card {
+                    background-color: #f8f9fa;
+                    border-radius: 8px;
+                    padding: 20px;
+                    text-align: center;
+                }
+                
+                .stat-number {
+                    font-size: 24px;
+                    font-weight: bold;
+                    color: #ff4b4b;
+                    margin: 10px 0;
+                }
+                
+                .stats-section {
+                    margin-top: 20px;
+                }
+                
+                .stats-section h3 {
+                    margin-bottom: 15px;
+                    text-align: center;
+                }
+            `;
+            document.head.appendChild(statsStyles);
+            
+            // Обработчики закрытия
+            const closeButton = modal.querySelector('.Modal_close');
+            closeButton.addEventListener('click', () => modal.remove());
+            
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) modal.remove();
+            });
+        }
+
+        // Функция для показа модального окна
+        function showModal(modalId) {
+            const modal = document.getElementById(modalId);
+            if(modal) {
+                modal.style.display = 'flex';
+            }
+        }
+
+        // Функция для отображения записанных курсов
+        function showUserCourses() {
+            const userCourses = JSON.parse(localStorage.getItem('userCourses') || '[]');
+            
+            // Создаем модальное окно для отображения курсов
+            let modal = document.getElementById('userCoursesModal');
+            if(!modal) {
+                modal = document.createElement('div');
+                modal.id = 'userCoursesModal';
+                modal.className = 'Modal_overlay';
+                
+                let coursesHTML = '';
+                if(userCourses.length > 0) {
+                    coursesHTML = `
+                        <ul class="user-courses-list">
+                            ${userCourses.map(course => `<li>${course}</li>`).join('')}
+                        </ul>
+                    `;
+                } else {
+                    coursesHTML = '<p>У вас пока нет записей на курсы.</p>';
+                }
+                
+                modal.innerHTML = `
+                    <div class="Modal_content">
+                        <div class="Modal_header">
+                            <h2>Мои курсы</h2>
+                            <button class="Modal_close">&times;</button>
+                        </div>
+                        <div class="Modal_body">
+                            ${coursesHTML}
+                        </div>
+                    </div>
+                `;
+                
+                document.body.appendChild(modal);
+                
+                // Добавляем обработчики закрытия
+                const closeButton = modal.querySelector('.Modal_close');
+                closeButton.addEventListener('click', function() {
+                    modal.style.display = 'none';
+                });
+                
+                modal.addEventListener('click', function(e) {
+                    if (e.target === this) {
+                        this.style.display = 'none';
+                    }
+                });
+            } else {
+                // Обновляем список курсов
+                let coursesHTML = '';
+                if(userCourses.length > 0) {
+                    coursesHTML = `
+                        <ul class="user-courses-list">
+                            ${userCourses.map(course => `<li>${course}</li>`).join('')}
+                        </ul>
+                    `;
+                } else {
+                    coursesHTML = '<p>У вас пока нет записей на курсы.</p>';
+                }
+                
+                modal.querySelector('.Modal_body').innerHTML = coursesHTML;
+            }
+            
+            // Отображаем модальное окно
+            modal.style.display = 'flex';
+        }
+
+        // Функция для отображения профиля пользователя
+        function showUserProfile() {
+            const loggedUser = localStorage.getItem('loggedUser');
+            const userEmail = getUserEmailByName(loggedUser);
+            
+            // Создаем модальное окно для отображения профиля
+            let modal = document.getElementById('userProfileModal');
+            if(!modal) {
+                modal = document.createElement('div');
+                modal.id = 'userProfileModal';
+                modal.className = 'Modal_overlay';
+                
+                modal.innerHTML = `
+                    <div class="Modal_content">
+                        <div class="Modal_header">
+                            <h2>Мой профиль</h2>
+                            <button class="Modal_close">&times;</button>
+                        </div>
+                        <div class="Modal_body">
+                            <div class="user-profile-details">
+                                <div class="user-profile-avatar">
+                                    <img src="_next/static/media/user-black.bd76743e.svg" alt="Аватар" width="64" height="64">
+                                </div>
+                                <div class="user-profile-info">
+                                    <h3>${loggedUser}</h3>
+                                    <p>${userEmail || 'Email не указан'}</p>
+                                </div>
+                            </div>
+                            <div class="user-profile-stats">
+                                <div class="user-profile-stat">
+                                    <span class="user-profile-stat-value">${JSON.parse(localStorage.getItem('userCourses') || '[]').length}</span>
+                                    <span class="user-profile-stat-label">Курсов</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                
+                document.body.appendChild(modal);
+                
+                // Добавляем обработчики закрытия
+                const closeButton = modal.querySelector('.Modal_close');
+                closeButton.addEventListener('click', function() {
+                    modal.style.display = 'none';
+                });
+                
+                modal.addEventListener('click', function(e) {
+                    if (e.target === this) {
+                        this.style.display = 'none';
+                    }
+                });
+            } else {
+                // Обновляем информацию профиля
+                modal.querySelector('.user-profile-info h3').textContent = loggedUser;
+                modal.querySelector('.user-profile-info p').textContent = userEmail || 'Email не указан';
+                modal.querySelector('.user-profile-stat-value').textContent = JSON.parse(localStorage.getItem('userCourses') || '[]').length;
+            }
+            
+            // Отображаем модальное окно
+            modal.style.display = 'flex';
+        }
+
+        // Функция для получения email пользователя по имени
+        function getUserEmailByName(name) {
+            let users = JSON.parse(localStorage.getItem('users') || '[]');
+            const user = users.find(u => u.name === name);
+            return user ? user.email : null;
+        }
+
+        function logout() {
+            // Удаляем информацию о вошедшем пользователе
+            localStorage.removeItem('loggedUser');
+            
+            // Возвращаем интерфейс в исходное состояние
+            const loginButton = document.querySelector('.Header_header-item__login__e9I19');
+            const registerButton = document.querySelector('.Header_header-item__registration__N6nfI');
+            const userProfile = document.querySelector('.user-profile');
+            
+            if(loginButton) loginButton.style.display = 'flex';
+            if(registerButton) registerButton.style.display = 'flex';
+            if(userProfile) userProfile.remove();
+        }
+    </script>
+    
+    <!-- Инициализация аккаунта администратора -->
+    <script>
+        // Проверяем, существует ли уже какой-либо список пользователей
+        const users = JSON.parse(localStorage.getItem('users') || '[]');
+        
+        // Проверяем, есть ли уже аккаунт администратора
+        const adminExists = users.some(user => user.login === 'admin');
+        
+        if (!adminExists) {
+            // Создаем аккаунт администратора
+            const adminUser = {
+                name: 'Администратор',
+                login: 'admin',
+                email: 'admin@admin.com',
+                password: 'admin',
+                isAdmin: true
+            };
+            
+            // Добавляем администратора в список пользователей
+            users.push(adminUser);
+            
+            // Сохраняем обновленный список пользователей
+            localStorage.setItem('users', JSON.stringify(users));
+            console.log('Аккаунт администратора успешно создан');
+        }
+    </script>
+</body>
+</html> 

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 12 Mar 2025 17:50:08 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Vary: HTTPS
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+
